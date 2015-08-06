@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{software.html}, backlink, notime, analytics{UA-3247448-7}
+== Software
+
+
+== Large-scale Convex Optimization
+
+   - [http://www.math.ucla.edu/~wotaoyin/papers/GRock/ Parallel and Distributed Sparse Optimization]\n
+     Z. Peng, M. Yan, W. Yin\n
+     IEEE Asilomar Conference on Signals, Systems, and Computers, 2013\n
+
+== Github
+   - You can find source of my projects at [https://github.com/ZhiminPeng my github site.] \n
