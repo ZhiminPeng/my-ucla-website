@@ -134,9 +134,9 @@ a:hover {
 }
 
 div.menu-box{
-    /*background-color: rgb(236, 234, 193); */ /* light yellow */
-    background-color: #D4E5F0; /* light blue */
-    /* background-color: #E2EDF5; /* lighter blue */
+    /* background-color: rgb(236, 234, 193); /* light yellow */
+    /* background-color: #D4E5F0; /* light blue */
+    background-color: #E2EDF5; /* lighter blue */
     border-radius: 5px;
     padding-top: 3px;
     padding-left: 5px;
@@ -144,6 +144,19 @@ div.menu-box{
     padding-bottom: 10px;
     margin-bottom: 7px;
 }
+
+/*
+div.menu-box{
+    background-color: #D4E5F0; 
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    margin-bottom: 7px;
+}
+*/
+
 
 div.menu-category {
 	border-bottom: 1px dotted gray;
@@ -342,6 +355,7 @@ div.blockcontent {
 
 div.infoblock > div.blockcontent {
 	background: #ffffee;
+	background-color: rgb(246, 246, 246);
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
