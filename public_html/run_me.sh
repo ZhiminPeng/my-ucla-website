@@ -2,6 +2,6 @@
 
 #compile the jemdoc files
 
-jemdoc index paper MENU cv ms164 software pic10a15s
+jemdoc -c mysite.conf index paper MENU cv ms164 software pic10a15s
 
 rm *~
