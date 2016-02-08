@@ -2,6 +2,13 @@
 == Publications
 
 == Large-scale Convex Optimization and Applications
+   - Asynchronous Stochastic Coordinate Descent: Unbounded Delay and Nonconvexity\n
+     Z. Peng, Y. Xu, M. Yan, W. Yin \n
+     Submitted, Feb 2016
+
+   - [http://arxiv.org/abs/1601.00863 Coordinate Friendly Structures, Algorithms and Applications]\n
+     Z. Peng, T. Wu, Y. Xu, M. Yan, W. Yin\n
+     Submitted, Jan 2016
 
    - [ARock/index.html ARock: an Algorithmic Framework for Asynchronous Parallel Coordinate Updates]\n
      Z. Peng, Y. Xu, M. Yan, W. Yin\n
@@ -21,7 +28,7 @@
      Submitted. 
 
 == Compressive Sensing
-   - [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7060714&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A4359509%29%26rowsPerPage%3D75 Linear Convergence of Adaptively Iterative Thresholding Algorithms for Compressed Sensing]\n
+   - [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7060714 Linear Convergence of Adaptively Iterative Thresholding Algorithms for Compressed Sensing]\n
    Y. Wang, J. Zeng, Z. Peng, X. Chang,  Z. Xu \n
    IEEE Transactions on Signal Processing, 2015
 
@@ -33,8 +40,8 @@
      IEEE WHISPERS'13, Gainesville, FL, 2013.
 
 
-   - Optimal Sparse Kernel Learning in the Empirical Kernel Feature Space for Anomaly Detection\n
+   - [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7272823 Sparse Kernel Learning-based Feature Selection for Anomaly Detection]\n
      Z. Peng, P. Gurram, H. Kwon, W. Yin\n
-     IEEE Transactions on Aerospace and Electronic Systems, 2014
+     IEEE Transactions on Aerospace and Electronic Systems, 2015
 
 
